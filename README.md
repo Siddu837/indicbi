@@ -5,6 +5,7 @@
 > **Team:** Team Vision · **Lead:** Gopi Keerthi  
 > **🌐 Live Production Website:** [https://indicbi.vercel.app](https://indicbi.vercel.app)  
 > **📊 Direct CRM & BI Ledger:** [https://indicbi.vercel.app/dashboard](https://indicbi.vercel.app/dashboard)  
+> **🎬 Demo Videos:** [Quick Preview (MP4)](assets/indic_bi_preview.mp4) · [Full Walkthrough (MP4)](assets/indicbi_full_demo.mp4)  
 
 ---
 
@@ -32,6 +33,19 @@ In India's tier-2, tier-3 cities and rural hubs, business happens on foot, in lo
    - Works directly inside Chrome, Safari, and Brave on Android, iOS, and Desktop.
    - Zero app store downloads or third-party recorder redirects required.
    - Built-in real-time audio volume visualizer with live speech wave animations.
+
+---
+
+## 🎬 Product Demo & Video Walkthrough
+
+Watch IndicBI in action running real-time multilingual voice dictation, intent classification, and automated ledger logging:
+
+https://github.com/Siddu837/indicbi/raw/main/assets/indic_bi_preview.mp4
+
+| Demo Recording | Size | Key Highlights | Link |
+|---|---|---|---|
+| **Quick Feature Preview** | ~2.4 MB | Real-time Indian language speech dictation, live audio wave, & 2-step verification card | [▶️ Watch Preview (MP4)](assets/indic_bi_preview.mp4) |
+| **Full Walkthrough Demo** | ~64 MB | Complete BI analytics queries, dynamic Recharts, CRM field visit ledger & cloud replication | [▶️ Watch Full Walkthrough (MP4)](assets/indicbi_full_demo.mp4) |
 
 ---
 
