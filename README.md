@@ -3,7 +3,8 @@
 > **Submission for Build Fast with AI: AI Build Challenge 2026**  
 > **Track:** Track 06 · AI for Bharat in Indian Languages (Problem Statement: PS-06)  
 > **Team:** Team Vision · **Lead:** Gopi Keerthi  
-> **Live Demo:** [Deployable on Vercel](#-deploy-to-vercel-guide) · Fully Mobile-Responsive
+> **🌐 Live Production Website:** [https://indicbi.vercel.app](https://indicbi.vercel.app)  
+> **📊 Direct CRM & BI Ledger:** [https://indicbi.vercel.app/dashboard](https://indicbi.vercel.app/dashboard)  
 
 ---
 
